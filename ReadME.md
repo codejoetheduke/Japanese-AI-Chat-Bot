@@ -110,7 +110,7 @@ SpeechPipelineEdgeTTS.print_available_voices(language_filter="ja")
 ### **Start the full pipeline**
 
 ```bash
-python your_script.py
+python app.py
 ```
 
 The program will:
